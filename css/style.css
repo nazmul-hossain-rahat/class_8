@@ -1,0 +1,118 @@
+.header{
+
+	background: green;
+	min-height: 100px;
+	overflow:hidden;
+
+}
+	
+.logo{
+	width:300px;
+		height: 50px;
+		
+border: 3px solid yellow;
+margin:  5px 10px ;
+min-height: 100px
+
+}
+
+.manu {
+    border: 3px solid yellow;
+    width: 50%;
+    min-height: 100px;
+    margin: -109px 90px 20px;
+    float: right;
+}
+.cat1{
+	width:30%;
+	min-height: 80px;
+
+	border: 1px solid red;
+	margin: 10px;
+	float: left;
+
+}
+.cat2{
+	width:30%;
+	min-height: 80px;
+	border:1px solid red;
+	margin:10px;
+	float:left;
+
+}
+.cat3{
+	width:30%;
+	min-height: 80px;
+	border:1px solid red;
+	margin:10px;
+	float:left;
+}
+
+	.wrapper{
+	
+			background-color: blue;
+		
+overflow:hidden;
+	}
+	.boxx1{
+		width: 60%;
+	min-height: 250px;
+	border: 1px solid white;
+	margin:50px auto;
+	
+
+
+}
+
+
+	.container{
+
+background-color: purple;
+	min-height: 300px;
+	overflow:hidden;
+
+}
+.margin{
+	margin:20px 50px;
+	border: 3px solid black;
+min-height: 300px;
+}
+.box1{
+	width:30%;
+	min-height: 250px;
+
+	border: 3px solid red;
+	margin: 20px;
+float: left;
+}
+.box2{
+
+	width:30%;
+	min-height: 250px;
+
+	border: 3px solid red;
+	margin: 20px;
+	float:left;
+
+}
+.box3{
+width:30%;
+	min-height: 250px;
+
+	border: 3px solid red;
+	margin: 20px;
+	float:left;
+}
+.footer{
+	background-color: lime;
+	min-height: 200px;
+	overflow:hidden;
+
+}
+.class1{
+	margin:20px 50px;
+	border: 3px solid black;
+min-height: 150px;
+
+
+}
